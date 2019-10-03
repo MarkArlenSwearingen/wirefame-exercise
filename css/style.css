@@ -87,3 +87,9 @@ footer {
   background-color: darkgrey;
   height: 60px;
 }
+
+#logo {
+  background-color: brown;
+  width: 200px;
+  height: 70px;
+}
